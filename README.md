@@ -51,9 +51,4 @@ Always eager to take on new challenges and expand my expertise in modern web tec
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thesk1fmeister&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Thesk1fmeister&&style=flat-square)  
-  
 
-<br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
